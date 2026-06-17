@@ -13,6 +13,25 @@ This is not legal advice. It is a public research log of what we learn about Eur
 - Legal entity requirements
 - Application templates and lessons learned
 
+## Compute Access Starter Kit
+
+Start with [docs/compute-access-starter-kit.md](docs/compute-access-starter-kit.md) for:
+
+- applicant-type eligibility matrix
+- Playground / Fast Lane / Large Scale / AI for Science / Benchmark / Development / Regular / IT4LIA path map
+- minimum artifact checklist before applying
+- outreach one-pager and draft templates
+- source policy and no-fabricated-progress contact log policy
+
+Structured files:
+
+- [docs/eurohpc-eligibility-matrix.md](docs/eurohpc-eligibility-matrix.md)
+- [docs/application-path-guide.md](docs/application-path-guide.md)
+- [docs/outreach-one-pager.md](docs/outreach-one-pager.md)
+- [docs/source-policy.md](docs/source-policy.md)
+- [data/contact-log.csv](data/contact-log.csv)
+- [data/sources.csv](data/sources.csv)
+
 ## Status
 
 We are mapping contact paths and studying requirements. We do not have compute access yet.

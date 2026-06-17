@@ -24,6 +24,8 @@ We are **not claiming access**. We are recording what we learn while pursuing le
 
 **Portal:** https://access.eurohpc-ju.europa.eu/
 
+**Primary source URLs:** access modes https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-modes_en, access calls https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-calls_en, Industrial Innovation Terms of Reference https://www.eurohpc-ju.europa.eu/document/download/bd7aa666-bdf3-4436-b5ec-0b34a781e817_en?filename=Terms+of+Reference+-+AIF+Access+Calls.pdf
+
 **Eligible users (per Access Policy Apr 2025):**
 - Public and private users in **EU Member States**
 - Users in countries **associated to DEP or Horizon Europe**
@@ -37,6 +39,8 @@ We are **not claiming access**. We are recording what we learn while pursuing le
 
 ## IT4LIA notes
 
+**Primary source URLs:** homepage https://it4lia-aifactory.eu/, packages https://it4lia-aifactory.eu/what-we-can-do-for-you/, FAQ https://it4lia-aifactory.eu/faq/, contact https://it4lia-aifactory.eu/contact-us/, infrastructure https://it4lia-aifactory.eu/about-it4lia/hpc-technological-infrastructure/
+
 - Services operational since **April 2025**
 - Packages: TRY / Medium / Large — include GPU hours + support + training
 - Eligible: startups, SMEs, PA, academia — **no-cost** tiers for eligible actors
@@ -48,7 +52,7 @@ We are **not claiming access**. We are recording what we learn while pursuing le
 2. Is char-level / educational open-source work compelling for TRY tier?
 3. Who signs DPA / affiliation agreement?
 
-**Contacts to use:**
+**Contacts to use (public IT4LIA contact page):**
 - info-it4lia@cineca.it
 - support-it4lia@cineca.it
 - Form: https://forms.office.com/e/swchU8P4C5
@@ -81,22 +85,38 @@ Artifacts required before serious outreach:
 
 ---
 
-## Contact log
+## Contact log policy
+
+Contacts must be logged only after they happen. Planned messages belong in draft sections, not in the contact log. See [GUIDE.md](GUIDE.md#no-fabricated-progress-contact-log-policy).
+
+## Actual contact log
 
 | Date | Org | Channel | Question | Response | Next step |
 | --- | --- | --- | --- | --- | --- |
-| — | EuroHPC helpdesk | — | Eligibility for unincorporated open-source collective | *pending* | Send after entity/partner identified |
-| — | IT4LIA | form | TRY package for open-weight European LM benchmark project | *pending* | Draft 1-pager + link eurobench |
+| — | — | — | — | — | No contacts logged yet |
 
-*We will publish rows as contacts happen — no fabricated progress.*
+## Draft questions, not yet sent
+
+| Org | Channel | Draft question | Missing before sending |
+| --- | --- | --- | --- |
+| EuroHPC helpdesk | Helpdesk form | Eligibility for unincorporated open-source collective | Eligible entity or partner candidate |
+| IT4LIA | Consultation form or support email | TRY package fit for open-weight European LM benchmark project | Draft 1-pager, compute estimate, eurobench links |
 
 ---
 
 ## References
 
-- EuroHPC Access Policy (Apr 2025 PDF)
-- Large Scale AI Factory Access page (rolling cut-offs 2026–2027)
-- IT4LIA FAQ (Dec 2025)
+- Compute Access Starter Kit: [docs/compute-access-starter-kit.md](docs/compute-access-starter-kit.md)
+- Eligibility matrix: [docs/eurohpc-eligibility-matrix.md](docs/eurohpc-eligibility-matrix.md)
+- Application path guide: [docs/application-path-guide.md](docs/application-path-guide.md)
+- Source register: [data/sources.csv](data/sources.csv)
+- Contact log: [data/contact-log.csv](data/contact-log.csv)
+- EuroHPC Access Policy: https://www.eurohpc-ju.europa.eu/document/download/30614065-6dd6-4206-8065-fc97948e5e2c_en?filename=EuroHPC+JU+Access+Policy+-+Version+2025.12.pdf
+- EuroHPC AI Factories access calls: https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-calls_en
+- EuroHPC AI Factories access modes: https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-modes_en
+- EuroHPC Industrial Innovation Terms of Reference: https://www.eurohpc-ju.europa.eu/document/download/bd7aa666-bdf3-4436-b5ec-0b34a781e817_en?filename=Terms+of+Reference+-+AIF+Access+Calls.pdf
+- IT4LIA FAQ: https://it4lia-aifactory.eu/faq/
+- IT4LIA packages: https://it4lia-aifactory.eu/what-we-can-do-for-you/
 - EC — Europe's Open-Source AI Landscape report (Dec 2025)
 - Limes [infrastructure map](https://github.com/Limes-Labs/european-ai-infrastructure-map/blob/main/MAP.md)
 
